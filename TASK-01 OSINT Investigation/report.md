@@ -1,7 +1,7 @@
 # OSINT Report
 
 Target: DarkWebX
-Author: <Bahaa Adel>
+Author: Bahaa Adel
 Date: 2025-09-27
 
 Summary
