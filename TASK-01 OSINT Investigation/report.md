@@ -1,8 +1,8 @@
 # OSINT Report
 
-Target: DarkWebX
-Author: Bahaa Adel 
-Date: 2025-09-27
+- Target: DarkWebX
+- Author: Bahaa Adel 
+- Date: 2025-09-27
 
 ### Summary
 
@@ -39,10 +39,10 @@ Attempts at service access: HaveIBeenPwned (requires paid API for account/paste 
 
 ### Google dork examples used:
 
-site:pastebin.com "DarkWebX"
-"DarkWebX" "X-Forwarded-For"
-site:github.com "DarkWebX" filename:log
-"darkwebx@gmail.com"
+- site:pastebin.com "DarkWebX"
+- "DarkWebX" "X-Forwarded-For"
+- site:github.com "DarkWebX" filename:log
+- "darkwebx@gmail.com"
 
 ### Findings & what I tried (detailed)
 
