@@ -33,8 +33,8 @@ Attempts at service access: HaveIBeenPwned (requires paid API for account/paste 
 
 ### GitHub commit email extraction:
 
-`git clone https://github.com/DarkWebX/sample.git`
-`git log --pretty=format:"%h %an <%ae> %s"`
+- `git clone https://github.com/DarkWebX/sample.git`
+- `git log --pretty=format:"%h %an <%ae> %s"`
 
 
 ### Google dork examples used:
