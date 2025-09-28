@@ -1,10 +1,10 @@
 # OSINT Report
 
 Target: DarkWebX
-Author: Bahaa Adel
+Author: Bahaa Adel 
 Date: 2025-09-27
 
-Summary
+### Summary
 
 This investigation enumerated public accounts for DarkWebX and attempted to locate associated emails and leaked IP addresses via open-source techniques (Sherlock, Google dorking, repository inspection, paste searches). I used Sherlock (installed on Kali) and cloned the GitHub repo; these steps together initially returned 16 accounts. I then expanded the search manually and checked several leak/index services.
 
@@ -74,14 +74,14 @@ Google dorking
 
 Performed targeted dorks on paste sites, GitHub raw content, and forum sites. No paste or leak was found that contained verified IPs or credentials associated with DarkWebX.
 
-Result
+### Result
 
 Confirmed presence of multiple public accounts (good).
 
 No verifiable leaked IPs or confirmed linked emails were identified using only free/open resources and local repo inspection. Candidate emails remain unverified.
 
 
-Limitations & ethics
+### Limitations & ethics
 
 Many valuable leak sources (stealer logs, consolidated breach dumps) are behind paid services (IntelX/DeHashed/HIBP paid API). Without paid access, the investigation used only freely available public data.
 
